@@ -281,4 +281,9 @@ body {
   color: #9a9a9a;
   letter-spacing: 0.5px;
 }
+.section .card {
+  margin-bottom: 30px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.35);
+}
+
 
