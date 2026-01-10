@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jenishradadiya9313.github.io/sitemap.xml
