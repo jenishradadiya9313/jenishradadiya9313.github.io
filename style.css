@@ -366,4 +366,10 @@ a {
   box-shadow: none;
   border-color: #000;
 }
+.btn {
+  font-weight: 600;      /* bold */
+  font-style: italic;    /* italic */
+}
+
+
 
