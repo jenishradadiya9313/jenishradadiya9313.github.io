@@ -1,0 +1,22 @@
+/* Hide all PDF.js UI */
+#toolbarContainer,
+#secondaryToolbar,
+#sidebarContainer,
+#findbar,
+#loadingBar {
+  display: none !important;
+}
+
+/* Clean dark background */
+#viewerContainer {
+  background: #0e0e0e !important;
+  top: 0 !important;
+}
+
+/* Center PDF pages */
+.pdfViewer .page {
+  margin: 24px auto !important;
+}
+#viewerContainer {
+  background: black !important;
+}
